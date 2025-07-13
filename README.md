@@ -1,12 +1,29 @@
-# React + Vite
+# Spidr Air Fryer Form 🌀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, Spidr-styled interest form built using **React + Vite + Tailwind CSS**, designed for the fictional Spidr Air Fryer product launch campaign.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+(https://himajaedhara.github.io/spidr-airfryer-form)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Features
+- Responsive, animated interest form
+- Vanta.js animated background (spider web style)
+- Stylish UI inspired by [spidr.design](https://spidr.design/)
+- Custom input formatting (e.g., 16-digit Spidr PIN with dashes)
+- Tailwind CSS styling
+- Console output on submission
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
+- React
+- Vite
+- Tailwind CSS
+- Vanta.js
+- Three.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ To Run Locally
+
+```bash
+git clone https://github.com/himajaedhara/spidr-airfryer-form.git
+cd spidr-airfryer-form
+npm install
+npm run dev
