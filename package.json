@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://himae918.github.io/spidr-airfryer-form",
+  "homepage": "https://himajaedhara.github.io/spidr-airfryer-form",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
