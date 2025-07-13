@@ -1,0 +1,23 @@
+/* Spidr-inspired form enhancements */
+input::placeholder {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.875rem;
+  color: #9ca3af;
+}
+
+input:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(99, 102, 241, 0.6);
+}
+
+button:hover {
+  filter: brightness(1.1);
+}
+
+label {
+  letter-spacing: 0.08em;
+  font-weight: 500;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
